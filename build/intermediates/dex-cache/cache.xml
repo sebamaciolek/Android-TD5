@@ -39,20 +39,11 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\seba9\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
-        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0-beta2_cd3f485c0fd135102e2721952206edb7739c2db6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="691db9a2ffb7e9aa0cca191992e5560002e7cfc3">
+        sha1="354b34947f4297c43210e5b4ee5a3b3f0897a211">
         <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3fd3efbdf983535be5ba25a9298322fbee35ba39\classes.dex" />
     </item>
     <item
@@ -84,21 +75,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\seba9\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jar="C:\Users\seba9\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\2.2.1\3095c5145d7966e555c113c6a3fc33a107badc80\realm-annotations-2.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
-        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.0-beta2_7cd2644f339a7a57358b3bac069e714a7353221c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\seba9\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_5c63053dd20754aa716bf4a2d8ea1761318ee915\classes.dex" />
+        sha1="3095c5145d7966e555c113c6a3fc33a107badc80">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\realm-annotations-2.2.1_e333377ed5c48accf066e6240ba4e8d171140709\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -117,15 +99,6 @@
         revision="24.0.2"
         sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
         <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8b6cc5e5e5a59ce231503e67fb20d37bc4142700\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\seba9\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
-        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_a601462cacf0978395ea7b3d613f7054f85f81c8\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -165,12 +138,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\seba9\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.2\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_73ea5b8b0c71ee51320962f260a2ed8312078a2c\classes.dex" />
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getkeepsafe.relinker-relinker-1.2.2_424db7b36e3e0c46d68ec52b25c8d12221243d6e\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -180,6 +153,15 @@
         revision="24.0.2"
         sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
         <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_940f0964d15de33d2576cf4e1397d2bcd10d9a1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\exploded-aar\io.realm\realm-android-library\2.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d16c820d6943f6bbfe74699ca2ce2ad4dd44829e">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.realm-realm-android-library-2.2.1_7bcbd773f45a704c6697533d15610d547e6f67f0\classes.dex" />
     </item>
     <item
         is-multidex="true"
