@@ -3,30 +3,129 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_174f42a6381bb23907a1d1bb86d77a655ecf2772\classes.dex" />
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0db5d1294d68bf808dbfa207ab6107e726012e7d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_a7c6a6e396dfdd79c1c0b18688e5404b6f3fcf32\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_bdd05f65730151e586268c3a0bfdd77edc1a186e\classes.dex" />
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_0f9ab7e58f104b6895675e5cc7c786e846a4d861\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_6b856f6ef62b78161971bf9f17cffa4b1d36c339\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_443233aeca66512a4db2b170f6428ce9940c9fb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0-beta2_cd3f485c0fd135102e2721952206edb7739c2db6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="691db9a2ffb7e9aa0cca191992e5560002e7cfc3">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3fd3efbdf983535be5ba25a9298322fbee35ba39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="16bb8e225416cd919862b8e4ffa933ad4a62c5f3">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f1b7fb9d309b23a629e1a045a9c6b07ee078a3db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_94b67cc95eea4c8b17b07e30506a2aa349465f8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_9aae973674c34d371343db27452057d662aa37cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.0-beta2_7cd2644f339a7a57358b3bac069e714a7353221c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_5c63053dd20754aa716bf4a2d8ea1761318ee915\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_bc9e1526b99f6b8ebabf5159305d1e212f4ce636\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8b6cc5e5e5a59ce231503e67fb20d37bc4142700\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_a601462cacf0978395ea7b3d613f7054f85f81c8\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -35,124 +134,70 @@
         optimize="true"
         revision="24.0.2"
         sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_60f98e861305c453ddaf60059a78bd75dc760bae\classes.dex" />
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_60f98e861305c453ddaf60059a78bd75dc760bae\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_e0f1278071f90d8106533eec71dae26e2c5b437c\classes.dex" />
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_abb3c4106b06bb09393b26a0fe9581320aca69e2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_964431ff29efc0b8a53af5c08a90853d5281512e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_752f6fb6bfc66048e704e159c033a124736bbbc9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_20c1f8e5b48885e9b11c53e5188fe1e7efed2842\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_bc86dd101908cd47eb66eeaf25f685df6a06d77f\classes.dex" />
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_ac2870b3ccc97cf37c69f61e296adae4e333e4bc\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_53b903db58e26f95cd4e3612715299c937d1e855\classes.dex" />
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_be2b26ee47460f56128c64d05418c2344f473d2e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jar="C:\Users\seba9\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8f3b47b03921cdc9417548b3d9fa250c64a5fa27\classes.dex" />
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_73ea5b8b0c71ee51320962f260a2ed8312078a2c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="89193732eaf90a231b8c6461792b202c4b9b22f0">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_aa8cd86468ad496c45c03a167b0a4a956876e327\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b07458a687bfff0ccbbd254e1129e7c548ba1173\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_1b27b4d5ed10d1d1fc0fe9938803e42834c5db60\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a2a3c28826cce5922d5df01a2afc6f37c88407af">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_89d7935f72befeefae01c6a7b74d356399443b3f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_63e457940c58cef3a802e5ce006874c49d19ef93\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="C:\Users\seba9\Downloads\Projet_LPDAM_v2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_edd51fed86e3a782b1aa031b1b7864bb3b33a4a7\classes.dex" />
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_940f0964d15de33d2576cf4e1397d2bcd10d9a1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_aa344a8b02305c5d036fc8736103657d7c159c72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\ProjetTD4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_c40cb44a08689938d5ae96fcaddcc938ad7162f5\classes.dex" />
     </item>
 
 </items>
