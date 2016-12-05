@@ -50,6 +50,8 @@ public class CustomView extends View implements View.OnTouchListener {
             private Random rdm;
             private boolean bIsReload = false;
 
+            private int tentative = 0;
+
         //endregion
 
         //region Getter / Setter
@@ -186,12 +188,14 @@ public class CustomView extends View implements View.OnTouchListener {
                     // Use the Builder class for convenient dialog construction
                     AlertDialog.Builder builder = new AlertDialog.Builder(activity);
                     builder.setCancelable(false);
-                    builder.setMessage("You win ! Do you want play again ?")
+                    builder.setMessage("You win ! You clicked "+Integer.toString(tentative)+" times Do you want play again ?")
                             .setPositiveButton("Yes, Play again!", new DialogInterface.OnClickListener() {
                                 public void onClick(DialogInterface dialog, int id) {
                                     mMP.pause();
                                     v.cancel();
                                     bIsReload = true;
+
+                                    tentative = 0;
                                 }
                             })
                             .setNegativeButton("No, I wanna leave", new DialogInterface.OnClickListener() {
@@ -206,6 +210,9 @@ public class CustomView extends View implements View.OnTouchListener {
                     builder.create();
 
                     builder.show();
+                }
+                else {
+                    tentative++;
                 }
 
                 return true;
